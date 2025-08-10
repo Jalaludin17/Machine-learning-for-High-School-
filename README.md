@@ -74,5 +74,5 @@ There's a few things that a high schooler can do to deepen their general underst
 ## Conclusion
 I've heard far too many people tell me that learning Machine Learning and Artificial Intelligence is too much of a stretch for a high schooler to not write this - with a well-paved learning path, it can be studied by anyone. And with that, I wish everyone the best of luck in undertaking this learning path. 
 
-If you have additions or possible improvements to this guide, feel free to make a PR to this repository. And for feedback, collaborations or just general queries, feel free to write to me @ [kj.jaisingh@gmail.com](jalaluddinmps@gmail.com).
+If you have additions or possible improvements to this guide, feel free to make a PR to this repository. And for feedback, collaborations or just general queries, feel free to write to me @ [jalaluddinmps@gmail.com](jalaluddinmps@gmail.com).
 
